@@ -2,25 +2,22 @@
 
 ### About me :see_no_evil:
 
-I´m Student Sotfware Engineer :books:, I like every learn new things every day specially programming lenguaje :computer:. I´m not currently working on any project, but I do personal projects for small businesses. I´m a responsible person, I like things to meet the expectations of a client :moneybag:.
+I´m a passionate self-taught junior Developer from México and Student Sotfware Engineer :books:, I like every learn new things every day specially programming lenguaje :computer:. I´m not currently working on any project, but I do personal projects for small businesses. I´m a responsible person, I like things to meet the expectations of a client :moneybag:.
 I remind you that I´m a Jr. developer, therefore I have a long way to go :smile:.
 
+**Talking about Personal Stuffs:**
+- 🌱 I’m currently learning Angular.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: [@LuuMolinaVasquez](https://www.facebook.com/LuuMolinaVasquez)
 
+📊 **This Week I Spent My Time On:**
 
+<!--START_SECTION:waka-->
+```text
+Angular      6 hrs 15 mins   ████████████████░░░░░░░░░   53.79 % 
+C++          3 hr 8 mins     ██████████░░░░░░░░░░░░░░░   31.97 % 
+Typescript   1 hrs 9 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Java               30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+```
+<!--END_SECTION:waka-->
 
-
-<!--
-**Luu92/Luu92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
