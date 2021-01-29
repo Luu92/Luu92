@@ -3,7 +3,7 @@
 ### About me :see_no_evil:
 
 I´m Student Sotfware Engineer :books:, I like every learn new things every day specially programming lenguaje :computer:. I´m not currently working on any project, but I do personal projects for small businesses. I´m a responsible person, I like things to meet the expectations of a client :moneybag:.
-I remind you that Im a Jr. developer, therefore I have a long way to go :smile:.
+I remind you that I´m a Jr. developer, therefore I have a long way to go :smile:.
 
 
 
