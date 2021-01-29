@@ -1,4 +1,4 @@
-# Hello, I´m Luis Alberto 👋
+# Hello, I´m Luis Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 ### About me :see_no_evil:
 
