@@ -14,10 +14,10 @@ I remind you that I´m a Jr. developer, therefore I have a long way to go :smile
 
 <!--START_SECTION:waka-->
 ```text
-Angular      6 hrs 15 mins   ████████████████░░░░░░░░░   53.79 % 
-C++          3 hr 8 mins     ██████████░░░░░░░░░░░░░░░   31.97 % 
-Typescript   1 hrs 9 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Java               30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Java      6 hrs 15 mins   ████████████████░░░░░░░░░   53.79 % 
+CSS          3 hr 8 mins     ██████████░░░░░░░░░░░░░░░   31.97 % 
+Spring Boot   1 hrs 9 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+JavaFX               30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 <!--END_SECTION:waka-->
 
